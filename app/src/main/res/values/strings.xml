@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Отели Кавказа</string>
+    <string-array name="roomType">
+        <item>Стандарт</item>
+        <item>Люкс</item>
+    </string-array>
+
+    <string-array name="guestsNumber">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+
+    <string-array name="stars">
+        <item>-</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+</resources>

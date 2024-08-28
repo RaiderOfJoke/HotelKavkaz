@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "818658297157",
+    "firebase_url": "https://hotelkavkaz-41dbf-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "hotelkavkaz-41dbf",
+    "storage_bucket": "hotelkavkaz-41dbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818658297157:android:d9dfa4662ecbff20b8aa2c",
+        "android_client_info": {
+          "package_name": "com.example.hotelkavkaz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0gMv4R7T364CreNsK6qMn6WP4pY6wnjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818658297157:android:918bdaccd22586b1b8aa2c",
+        "android_client_info": {
+          "package_name": "com.example.kavkazhotel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0gMv4R7T364CreNsK6qMn6WP4pY6wnjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
